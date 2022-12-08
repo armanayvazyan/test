@@ -8,6 +8,7 @@ class Car(val model: String) {
 
     fun drive2() {
         while (true) {
+            drive2()
             while (false) {
 
             }

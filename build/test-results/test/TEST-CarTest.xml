@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CarTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-12-07T09:04:45" hostname="AM-UNIT-0016" time="0.009">
+  <properties/>
+  <testcase name="drive()" classname="CarTest" time="0.007"/>
+  <testcase name="getModel()" classname="CarTest" time="0.002"/>
+  <system-out><![CDATA[you are driving car mercedes
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,1 @@
+/Users/Arman.Ayvazyan/IdeaProjects/test_project/build/classes/kotlin/main/Car.class:/Users/Arman.Ayvazyan/IdeaProjects/test_project/build/classes/kotlin/main/MainKt.class
